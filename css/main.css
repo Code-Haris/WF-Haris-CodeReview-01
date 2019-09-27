@@ -167,8 +167,7 @@ div.boxes:nth-of-type(2) {
 section.item-bot 
 img {
     grid-area: c;
-    width: 100%;
-    width: 85%;
+    width: fit-content;
     height: 100%;
     margin-left: 20px;
     margin-right: 40px;
